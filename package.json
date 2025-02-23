@@ -1,0 +1,22 @@
+{
+  "name": "courses.ultimateqa-testautomation",
+  "version": "1.0.0",
+  "description": "Este es un repositorio en donde pongo en practica los conocimientos adquiridos en las automatización de pruebas con el framework Playwright usando JS",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliecerUJob/courses.ultimateqa-testautomation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliecerUJob/courses.ultimateqa-testautomation/issues"
+  },
+  "homepage": "https://github.com/EliecerUJob/courses.ultimateqa-testautomation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5"
+  }
+}
